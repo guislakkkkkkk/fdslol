@@ -43,7 +43,7 @@ end
 function onUpdate(elapsed)
 	-- start of "update", some variables weren't updated yet
     setTextString('atkText',atkcounter .. '%' )
-	if getPropertyFromClass('flixel.FlxG', 'keys.justPressed.SPACE') and difficulty == 1 then
+	if (getMouseX('camHUD') > 1148 and getMouseX('camHUD') < 1280) and (getMouseY('camHUD') > 588 and getMouseY('camHUD') < 720 and mousePressed('left')) or keyPressed('spacebar') and difficulty == 1 then
 		if atkcounter == 100 then
 			atkcounter = atkcounter - atkcounter 
 			setProperty('boobs.scale.y',1)

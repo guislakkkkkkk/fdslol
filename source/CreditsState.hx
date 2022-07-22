@@ -86,7 +86,7 @@ class CreditsState extends MusicBeatState
 			[''],
 			['Caras q fez o port lol'],
 			['Guislakkkk',	'gui',				'lol',					'https://youtube.com/channel/UCVniqkS8csFDi8U2N6UrVhQ', 	'FE0015'],
-			['Enzomods',	'enzo',				'lol',					'https://youtube.com/channel/UCixjbIv6a4Op1QHCVfmzOzg', 	'FE0015'],
+			['Enzomods',	'enzo',				'me ajudou na mecânica de espaço',					'https://youtube.com/channel/UCixjbIv6a4Op1QHCVfmzOzg', 	'0102D6'],
 			[''],
 			['Psych Engine Team'],
 			['Shadow Mario',		'shadowmario',		'Main Programmer of Psych Engine',							'https://twitter.com/Shadow_Mario_',	'444444'],

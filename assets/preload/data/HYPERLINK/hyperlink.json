@@ -11151,7 +11151,7 @@
 			]
 		],
 		"player2": "NEO",
-		"player3": null,
+		"player3": susie_neo,
 		"splashSkin": "noteSplashes",
 		"song": "hyperlink",
 		"needsVoices": true,
